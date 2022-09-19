@@ -16,4 +16,4 @@ Projeto construido do evento Next Level Week da Rocketseat
 
 ## Contato
 
-gabrieldinizigg@gmai.com
+gabrieldinizigg@gmail.com
